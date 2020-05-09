@@ -45,7 +45,7 @@ A recipe for producing one or more Products from Resources and/or other Products
 
 - Properties
   - Input quantities: positive numbers, amount of each Resource/input Product required for 1 production cycle.
-  - Output quantities: positive numbers, amount of each output Product produced by one production cycle.
+  - Output quantities: positive numbers, amount of each output Product produced by 1 production cycle.
 - Links
   - Resource [Cardinality >= 0]
   - Product (input) [Cardinality >= 0]
