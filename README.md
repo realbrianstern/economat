@@ -79,7 +79,7 @@ A mobile Stockpile of Products and/or Resources
 - Properties
   - Maximum velocity: positive number
 - Links
-  Stockpile [Cardinality: 1]
+  - Stockpile [Cardinality: 1]
 
 #### Road
 
